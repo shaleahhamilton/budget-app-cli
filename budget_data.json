@@ -1,0 +1,17 @@
+{
+  "pay": {
+    "frequency": "biweekly",
+    "amount": 847.0
+  },
+  "expenses": [
+    {
+      "name": "Groceries",
+      "amount_per_period": 120.0
+    },
+    {
+      "name": "Gas",
+      "amount_per_period": 40.0
+    }
+  ],
+  "savings_goal_per_period": 300.0
+}
